@@ -1,0 +1,19 @@
+{
+    "name": "tamzidan/sportcliapp",
+    "description": "appcli sport core",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tamzidan\\Sportcliapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tamzidan",
+            "email": "tamzidan01@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
